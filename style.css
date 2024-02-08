@@ -25,11 +25,12 @@ body {
     background-color: #fff;
     text-align: center;
     margin: 0 1rem;
+    box-shadow: 4px 8px 8px 0px rgb(199, 199, 199);
 }
 
 .card img {
  width: 100%;
- border-radius: 14px;
+ border-radius: 12px;
 }
 
 .text {
